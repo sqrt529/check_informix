@@ -1,0 +1,10 @@
+Check Scripts for the Informix database. All Scripts are Nagios compliant.
+
+
+check_informix_dbonline.pl: Checks if db instance is online
+
+check_informix_dbspace.pl: Checks the size of a dbspace
+
+check_informix_log.pl: Checks the online log
+
+check_informix_repl.pl: Checks the CDR replication status
